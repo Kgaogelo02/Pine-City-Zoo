@@ -85,6 +85,7 @@ body{
 /*============ MAIN ============*/
 #main{
     margin-top: 119px;
+    width: 100%;
     background: url('images/map-blur.png');
     background-repeat: repeat-y;
 }
